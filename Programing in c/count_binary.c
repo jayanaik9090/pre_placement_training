@@ -1,3 +1,4 @@
+#include<stdio.h>
 int main(void) {
 unsigned int n,i,c=0;
 printf("Enter n value :");
